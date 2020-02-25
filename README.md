@@ -1,6 +1,10 @@
 # YfYan的一些项目
 
 
+## [人工智能proj](https://github.com/YfYan/Artificial-Intelligence)
+梯度下降及加速技巧（momentum,nestrov,adagrad,rmsprop,adam)
+numpy实现的全连接神经网络，rbf网络
+## [LSTM时间序列]()
 
 ## [知乎爬虫](https://yfyan.github.io/zhihu_crawl/)
 
@@ -14,13 +18,10 @@
 
 
 
-## [LSTM时间序列]()
 
 
 
-## [常微分方程参数优化]()
 
 
 
-## [Testing a hypothesis about the quant meltdown]()
 
